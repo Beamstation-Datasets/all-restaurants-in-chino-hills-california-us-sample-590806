@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6ca56b59-9508-49be-8b39-babcc4675d09",
+  "export_job_id": "38c4f85c-560d-4f8b-b99c-5e712364e2bb",
   "id_short": 590806,
-  "published_at": "2026-04-13T19:42:05Z",
+  "published_at": "2026-04-19T19:19:06Z",
   "repo_name": "all-restaurants-in-chino-hills-california-us-sample-590806",
   "sample_asset_name": "beamstation_590806_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/590806/beamstation_590806_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 14,
-  "sample_sha256": "86ac9b42d430f40f9368cba34b1d5b6f7cb4fb90203eaacc43059bf9e428b5fc",
-  "sample_size_bytes": 66369,
-  "total_records": 149
+  "sample_sha256": "6b2b9d70428b3bd28b91aa5d69253b68516d94cc80abc8bb5ed1811be7e6dd98",
+  "sample_size_bytes": 56425,
+  "total_records": 143
 }
